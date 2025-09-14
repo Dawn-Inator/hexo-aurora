@@ -78,8 +78,13 @@ Haha，I wanna one day i would get the **RTX4090**.
 | **Bloody Spell** | *2023.05~2023.05* |
 | **Genshin Impact** | *2023.06~now* |
 | **Detroit: Become Human** | *2024.05~2024.05* |
-
-
+| **Elden Ring DLC** | *2024.06~2024.08* |
+| **Wuthering Waves** | *2024.11~Now* |
+| **Hogwarts Legacy** | *2025.03~2025.07* |
+| **Wuchang: Fallen Feathers** | *2025.08~2025.08* |
+| **Battlefield 4** | *2025.08~2025.08* |
+| **Black Myth: Wukong** | *2025.08~2025.08* |
+| **ELDEN RING NIGHTREIGN** | *2025.09~2025.09* |
 
 
 ## 📬 Connect with Me 
@@ -89,7 +94,7 @@ Haha，I wanna one day i would get the **RTX4090**.
   - dawn.inator.lzl@qq.com
 
 - **Social Media**:
-  - **Facebook**: [Dawn Inator](https://www.facebook.com/dawn.inator.meta)
+  - **Facebook**: [Dawn Inator](https://www.facebook.com/dawn.inator.lzl)
   - **Discord**: dawn_inator_lzl
   - **Twitter**: [Dawn Inator](https://twitter.com/dawn_inator_lzl)
   - **GitHub**: [Dawn-Inator](https://github.com/Dawn-Inator)
