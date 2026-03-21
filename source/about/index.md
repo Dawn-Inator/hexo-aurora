@@ -85,6 +85,7 @@ Haha，I wanna one day i would get the **RTX4090**.
 | **Battlefield 4** | *2025.08~2025.08* |
 | **Black Myth: Wukong** | *2025.08~2025.08* |
 | **ELDEN RING NIGHTREIGN** | *2025.09~2025.09* |
+| **Star Rail** | *2025.10~Now* |
 
 
 ## 📬 Connect with Me 
