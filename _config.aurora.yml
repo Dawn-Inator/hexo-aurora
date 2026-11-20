@@ -65,7 +65,7 @@ menu:
         name: 'PKU SPEECH'
         i18n:
           en: 'PKU SPEECH'
-        path: 'https://pku-vibecoding.inator.site/presentation/index.html#1'
+        path: 'https://pku-vibecoding.inator.site'
   Projects:
     name: 'Projects'
     i18n:
