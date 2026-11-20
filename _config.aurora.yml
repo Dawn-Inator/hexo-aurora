@@ -177,8 +177,8 @@ twikoo:
 # Waline comment plugin
 # see https://waline.js.org/guide/get-started/
 waline:
-  enable: true
-  recentComment: true
+  enable: false
+  recentComment: false
   reaction: false
   login: 'force'
   meta: ['nick', 'mail']
