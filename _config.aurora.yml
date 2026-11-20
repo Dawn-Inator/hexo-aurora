@@ -56,6 +56,16 @@ menu:
   Tags: true
   Archives: true
   Links: true
+  Speech:
+    name: 'SPEECH'
+    i18n:
+      en: 'SPEECH'
+    children:
+      PKU-Speech:
+        name: 'PKU SPEECH'
+        i18n:
+          en: 'PKU SPEECH'
+        path: 'https://pku-vibecoding.inator.site/presentation/index.html#1'
   Projects:
     name: 'Projects'
     i18n:
