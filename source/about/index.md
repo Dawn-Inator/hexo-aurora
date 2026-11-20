@@ -3,7 +3,7 @@ title: about
 date: 2024-04-17 22:52:24
 ---
 
-# 🌅 Welcome to Anor Londo 
+# Welcome to Anor Londo 
 
 Anor Londo is my personal blog, crafted using the Hexo framework with the Aurora theme.
 
@@ -31,36 +31,17 @@ Haha，I wanna one day i would get the **RTX4090**.
 
 ## ✨ Skills & Tools
 
-**Frontend** 
-- html
-- css
-- javascript
-- vue
-- bootstrap
-- axios
-- nginx
-- http and https
-
-
-**Backend**
-- python
-- c++
-- java
-- flask
-- docker
-- mysql
-- redis
-- linux
-- cdn
-
-**AI Agents**
-- Chat GPT4
-- Gemini
-- Microsoft Copilot
-- Claude
-- Grok
-- Midjourney
-- Stable Diffusion
+| **Frontend** | **Backend** | **AI Agents** |
+| :--- | :--- | :--- |
+| html | python | Chat GPT4 |
+| css | c++ | Gemini |
+| javascript | java | Microsoft Copilot |
+| vue | flask | Claude |
+| bootstrap | docker | Grok |
+| axios | mysql | Midjourney |
+| nginx | redis | Stable Diffusion |
+| http and https | linux |  |
+|  | cdn |  |
 
 ## 👓 Games have played
 
@@ -86,6 +67,7 @@ Haha，I wanna one day i would get the **RTX4090**.
 | **Black Myth: Wukong** | *2025.08~2025.08* |
 | **ELDEN RING NIGHTREIGN** | *2025.09~2025.09* |
 | **Star Rail** | *2025.10~Now* |
+| **Clair Obscur: Expedition 33** | *2026.10~2026.10* |
 
 
 ## 📬 Connect with Me 
